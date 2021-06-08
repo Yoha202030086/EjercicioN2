@@ -1,0 +1,8 @@
+InicioN
+ var n 
+ Escribir "Ingrese un valor"
+ leer(valor)
+ Escribir "Los valores son N<=1"
+ leer(N<=1)
+ mostrar 
+FinN
